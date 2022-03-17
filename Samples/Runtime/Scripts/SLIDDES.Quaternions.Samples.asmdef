@@ -1,0 +1,16 @@
+{
+    "name": "SLIDDES.Quaternions.Samples",
+    "rootNamespace": "SLIDDES.Quaternions.Samples",
+    "references": [
+        "GUID:51e52c5f4e48d9840bac8e85dfb0de1f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
